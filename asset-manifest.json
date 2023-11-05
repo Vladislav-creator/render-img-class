@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/render-img-class/static/css/main.7acaea2f.css",
+    "main.js": "/render-img-class/static/js/main.59710c63.js",
+    "index.html": "/render-img-class/index.html",
+    "main.7acaea2f.css.map": "/render-img-class/static/css/main.7acaea2f.css.map",
+    "main.59710c63.js.map": "/render-img-class/static/js/main.59710c63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.59710c63.js"
+  ]
+}
